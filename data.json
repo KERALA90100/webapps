@@ -1,0 +1,54 @@
+{
+	"basics":{
+		"name":"sowji",
+		"role":"student",
+		"mobile":"+91 8364916486",
+		"email":"sowji01@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+"education":
+[
+	{
+	"degree":"B.tech",
+	"institute":"vignan's nirula",
+	"data":["2016-20","85%"]
+},
+
+{
+    
+
+    "degree":"inter",
+    "institute":"Sri Chaitanya",
+    "data":["2014-16","90%"]
+},
+
+
+{
+	"degree":"s.s.c",
+	"institute":"pragna",
+   "data":["2013-2014","90%"]
+}
+],
+"skills":[
+{
+	"title":"programming languages",
+	"content":["python","C","java","SRP","C++"]
+},
+{
+
+	"title":"Data bases",
+	"content":["SQL","oracle","mySql"]
+},
+{
+	"title":"Web Technologies",
+	"content":["HTML","XML","javaScript"]
+},
+{
+	"title":"Operating Systems",
+	"content":["Linux","Windows","Unix"]
+}
+
+]
+}
